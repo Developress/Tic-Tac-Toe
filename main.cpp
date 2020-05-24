@@ -4,6 +4,8 @@
 #include <algorithm>
 using namespace std;
 
+***WHAT THE BULLSHIT IS IT?***
+
 const char X = 'X';
 const char O = 'O';
 const char EMPTY = ' ';
